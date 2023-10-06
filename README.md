@@ -1,5 +1,13 @@
 # Learning java basics
- 
+
+## Programming Fundamentals: 
+The basics of programming includes:
+- Variables
+- Data Types
+- Operators
+- Conditions
+- Loops
+- Methods
 ## Most JAVA Keywords 
 | Keyword       | Description                                                           |
 |---------------|-----------------------------------------------------------------------|
